@@ -1,0 +1,10 @@
+body {
+	font-family: Calibri, sans-serif;
+}
+
+.error {
+	background: red;
+	padding: 12px;
+	color: white;
+	font-size: 1.2em;
+}
